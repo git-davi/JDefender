@@ -5,6 +5,6 @@ This was funny project made some years ago with my friend [Zaxorn](https://githu
   
 **It was the first time for us in Object Oriented Programming, so sorry if the code is really bad!**
 
-Some pictures from game :
-![Game menu](pictures/menu.png)
-![In game](pictures/ingame.png)
+Some pictures from game (no preview):  
+[Game menu](pictures/menu.png)  
+[In game](pictures/ingame.png)
