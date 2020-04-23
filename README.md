@@ -1,2 +1,10 @@
-# JDefender
-A 3D game written entirely in Java and built with JMonkeyEngine
+# JDefender  
+  
+A Java 3D game with JMonkeyEngine as game engine.  
+This was funny project made some years ago with my friend (Zaxorn)[https://github.com/Zaxorn].
+  
+**It was the first time for us in Object Oriented Programming, so sorry if the code is really bad!**
+
+Some pictures from game :
+![](pictures/menu.png)
+![](pictures/ingame.png)
